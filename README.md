@@ -8,8 +8,8 @@
 - <a href="https://github.com/Ujjwalthakur018/Tele-Churn2-Analysis-using-Python/blob/main/Customer%20Churn.csv">Dataset</a>
 
 ## KPIs
--Month-to-Month Contract Churn Rate
--Fiber Optic Internet Churn Rate
--Churn Rate of Customers with Online Security
--Churn Rate of Customers with Less Than 12 Months Tenure
--Churn Rate of Senior Citizens
+- Month-to-Month Contract Churn Rate
+- Fiber Optic Internet Churn Rate
+- Churn Rate of Customers with Online Security
+- Churn Rate of Customers with Less Than 12 Months Tenure
+- Churn Rate of Senior Citizens
